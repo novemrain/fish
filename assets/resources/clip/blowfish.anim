@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blowfish",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a1453d8f-ca5f-411d-a0d4-dfc670c39a00"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "d363d0e0-481b-487e-8a7c-623ab9d4cf58"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "72845be4-b2f7-4df3-a330-6cab78e16867"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "019b3a19-c619-43c9-840b-53dff10ea707"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

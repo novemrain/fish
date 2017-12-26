@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "uglyfish",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c9de92f2-8a40-4116-94e7-b7782f630970"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "5ad4752d-3f95-445d-b5fd-4c38afde8934"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "cbc22935-8b3b-4de4-adb4-6ea560d17325"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "804c5e26-ec4b-4ce9-bc5f-9ea1cc6f42cd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
